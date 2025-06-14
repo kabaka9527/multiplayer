@@ -1,6 +1,6 @@
 name: multiplayer,
 displayName: 联机,
-subtitle: 通过multiplayer service进行联机,
+subtitle: 通过multiplayer_service进行联机,
 description: 通过multiplayer service进行联机,
 author: "[#0096FF]xzxADIxzx 由cong重写并改进",
 minGameVersion: 149,
